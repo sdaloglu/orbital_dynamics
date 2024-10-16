@@ -12,8 +12,8 @@ The simulation also includes various visualizations and outputs of the orbital p
 
 ## Notebooks
 
-- `simulation.ipynb`: Contains the core implementation of the orbital dynamics simulation, including the mathematical formulation and visualizations.
-- `DiffEq.ipynb`: Contains the numerical solutions of differential equations used to model the orbital dynamics.
+- `simulation.ipynb`: Contains the core implementation of the orbital dynamics simulation visualizations.
+- `DiffEq.ipynb`: Contains the numerical solutions and methods for differential equations used to model the orbital dynamics.
 
 ## Dependencies
 
