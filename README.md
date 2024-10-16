@@ -10,6 +10,9 @@ This project implements a numerical simulation of orbital dynamics to model the 
 
 The simulation also includes various visualizations and outputs of the orbital paths, allowing for detailed analysis of the simulated trajectories.
 
+
+![Alt Text](test_snaps/simulation.gif)
+
 ## Notebooks
 
 - `simulation.ipynb`: Contains the core implementation of the orbital dynamics simulation visualizations.
